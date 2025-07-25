@@ -157,9 +157,20 @@ h2 { font-size: 2.5rem; }
 .steps .col img {
 
  height: auto;
-  
+
 }
+
+.why-us{
+    background-color: black;
+    
 }
+      
+
+
+body{
+    background-color: black;
+}     
+
 
 
 
